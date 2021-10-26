@@ -2,7 +2,7 @@
 
 ...
 
-## Taller #2: percentajes y descuentos
+## Taller #2: porcentajes y descuentos
 
 - Primer paso: definir las fórmulas
 - Segundo paso: implementar la fórmulas en JavaScript
